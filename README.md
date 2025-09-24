@@ -26,4 +26,5 @@ O objetivo é **realizar o sorteio automático do Amigo Secreto**, garantindo qu
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/challenge-amigo-secreto_pt-main.git
+   git clone https://github.com/seu-usuario/challenge-amigo-secreto.git
+
